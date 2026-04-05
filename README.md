@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Smart-Counter-Application
+A React app that lets users increment, decrement, and reset a counter. It prevents negative values and shows real-time feedback when the minimum limit is reached, demonstrating dynamic state management with useState.
+>>>>>>> 99cc890b20e9ba5f3340b8cd955c8c77f48cb972
